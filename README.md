@@ -3,6 +3,6 @@ Creating a simple webpage of some food recipes to pracice my fundamental HTML sk
 
 Those skills include:
 - HTML Boilerplate
-- Basic text tags to make text bold, italisised etc.
+- Headings
 - Lists
 - Adding links & images
